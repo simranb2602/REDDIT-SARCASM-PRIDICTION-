@@ -33,3 +33,8 @@ The Reddit Sarcasm Prediction project can be applied across various domains. Bel
 4.NLP Research: Researchers in natural language processing can use this project to experiment with sarcasm detection models, test variations in text preprocessing, or explore new model architectures for sarcasm classification.
 
 5.Chatbots and Virtual Assistants: Integrating this model into conversational agents can enhance the interaction experience by enabling bots to recognize sarcasm, improving their ability to respond appropriately.
+
+UI:
+
+![sarcasm_ui_1](https://github.com/user-attachments/assets/e60cc58d-a678-4d58-8797-c46b9b2b3b88)
+
