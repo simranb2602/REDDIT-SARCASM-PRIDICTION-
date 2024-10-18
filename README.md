@@ -1,7 +1,6 @@
 REDDIT SARCASM PRIDICTION-
 
-
-![image](https://github.com/user-attachments/assets/fe3f5a92-e5fd-4930-bbfb-0ab5ba4b696b)
+![sarcasm_ui_1](https://github.com/user-attachments/assets/e60cc58d-a678-4d58-8797-c46b9b2b3b88)
 
 
 Project Overview:
@@ -34,7 +33,7 @@ The Reddit Sarcasm Prediction project can be applied across various domains. Bel
 
 5.Chatbots and Virtual Assistants: Integrating this model into conversational agents can enhance the interaction experience by enabling bots to recognize sarcasm, improving their ability to respond appropriately.
 
-UI:
 
-![sarcasm_ui_1](https://github.com/user-attachments/assets/e60cc58d-a678-4d58-8797-c46b9b2b3b88)
+
+
 
