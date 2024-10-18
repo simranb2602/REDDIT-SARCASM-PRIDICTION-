@@ -1,0 +1,17 @@
+comment_slangs,slang_comment_freq,parent_comment_slangs,parent_slang_comment_freq
+"('Tea', 'Gossip or juicy information')",3.0,"('Basic', 'Unoriginal, mainstream')",5
+"('Bet', 'agreement or confirmation')",5.0,"('Savage', 'Brutal, fierce')",3
+"('Squad', 'Group of friends')",3.0,"('Ship', 'Support or endorse a romantic pairing')",2
+"('Ship', 'Support or endorse a romantic pairing')",2.0,"('Bruh', 'Friend, buddy')",2
+"('Fam', 'Close friends or family')",2.0,"('Slay', 'To do something exceptionally well or look very fashionable')",1
+"('Salty', 'Bitter, upset')",2.0,"('Extra', 'Over the top, dramatic')",2
+"('Gucci', 'Good, fine, or cool')",1.0,"('Salty', 'Bitter, upset')",1
+,,"('Bet', 'agreement or confirmation')",3
+,,"('Stan', 'Strong fan or supporter')",2
+,,"('Woke', 'Aware, socially conscious')",2
+,,"('Squad', 'Group of friends')",5
+,,"('Sis', 'Short for ""sister,"" often used to address a close female friend')",1
+,,"('Swag', 'Coolness, style')",1
+,,"('Ghost', 'To suddenly disappear or stop communicating')",4
+,,"('Thirsty', 'Desperate for attention or approval')",1
+,,"('Gucci', 'Good, fine, or cool')",2

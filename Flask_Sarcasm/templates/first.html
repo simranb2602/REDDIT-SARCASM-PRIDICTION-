@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+      background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../static/img/background.jpg);
+      height: 100vh;
+      background-position: center;
+      overflow: hidden;
+      background-size: cover;
+      margin: 0;
+    }
+
+    .navbar {
+      overflow: hidden;
+      background-color: #34495e;
+      position: fixed;
+      top: 0;
+      width: 100%;
+      text-align: center;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 10px 0;
+    }
+
+    .navbar .logo {
+      color: #fff;
+      font-size: 24px;
+      padding-left: 20px;
+    }
+
+    .navbar a {
+      display: inline-block;
+      color: white;
+      padding: 14px 16px;
+      text-decoration: none;
+      transition: 0.3s;
+    }
+
+    .navbar a:hover {
+      background-color: #2c3e50;
+      color: white;
+    }
+
+    .navbar .nav-items {
+      display: flex;
+      align-items: center;
+      margin-right: 20px;
+    }
+
+    .title-container {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      text-align: center;
+    }
+
+    .title {
+      color: #fff;
+      font-size: 50px;
+      margin-bottom: 10px;
+    }
+
+    .subtitle {
+      color: #fff;
+      font-size: 24px;
+      font-family: Arial, sans-serif;
+      margin-top: 10px;
+      /* Adjusted margin-top for reduced spacing */
+    }
+
+    .button {
+      position: absolute;
+      top: 65%;
+      /* Adjusted position */
+      left: 50%;
+      transform: translate(-50%, -50%);
+    }
+
+    .btn {
+      background-color: black;
+      border: none;
+      color: #fff;
+      text-decoration: none;
+      font-size: 18px;
+      padding: 10px 30px;
+      border-radius: 5px;
+      transition: background-color 0.3s;
+    }
+
+    .btn:hover {
+      background-color: #333;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="navbar">
+    <div class="logo">Sarcasm Detector</div>
+    <div class="nav-items">
+      <a href="#">Home</a>
+      <a href="#">About</a>
+      <a href="#">Contact Us</a>
+      <a href="#">Community</a>
+      <a href="#">Blog</a>
+    </div>
+  </div>
+  <div class="title-container">
+    <div class="title">Reddit comments Sarcasm Detection</div>
+  </div>
+  <div class="button">
+    <a href="{{url_for('index')}}" class="btn">DETECT SARCASM</a>
+  </div>
+</body>
+
+</html>
